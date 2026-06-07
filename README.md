@@ -8,9 +8,18 @@
 
 <hr />
 
+
+<div align="center">
+
 [![Expo](https://img.shields.io/badge/Expo-v51.0.36-blue.svg)](https://expo.dev/)
 [![React Native](https://img.shields.io/badge/React%20Native-v0.74.5-blue.svg)](https://reactnative.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Firestore-orange.svg)](https://firebase.google.com/)
+
+<br><br>
+
+<img src="assets/images/cert.png" alt="3rd Place Certificate" width="300">
+
+</div>
 
 ## Features
 
